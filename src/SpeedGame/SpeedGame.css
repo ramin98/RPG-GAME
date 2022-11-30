@@ -1,0 +1,31 @@
+.area{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.goals{
+    width: 30%;
+    height: 30%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.goal{
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    
+}
+
+.win{
+    position: relative;
+    font-size: xx-large;   
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+}
